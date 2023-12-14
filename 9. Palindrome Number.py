@@ -1,3 +1,4 @@
+# My Answer
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         x1 = str(x)[::-1]
@@ -5,7 +6,7 @@ class Solution:
             return True
         return False
 
-# Someone's Solution
+# Someone's Answer
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0:
