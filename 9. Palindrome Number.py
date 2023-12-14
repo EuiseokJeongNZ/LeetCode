@@ -5,7 +5,7 @@ class Solution:
             return True
         return False
 
-
+# Someone's Solution
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0:
