@@ -8,4 +8,3 @@ Data Structures and Algorithms for Python
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Implementation/14.%20Longest%20Common%20Prefix.py) | Implementation | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/DFS%20and%20BFS/200.%20Number%20of%20Islands.py) | Implementation | [Midium](https://leetcode.com/problemset/?difficulty=MEDIUM&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 
-https://github.com/EuiseokJeongNZ/LeetCode/blob/master/DFS%20and%20BFS/200.%20Number%20of%20Islands.py
