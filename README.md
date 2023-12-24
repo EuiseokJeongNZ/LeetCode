@@ -2,7 +2,7 @@ Data Structures and Algorithms for Python
 
 | # | Title | My Solution | Tag | Difficulty | Status |
 | --- | :---: | :---: | --- | :---: | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Dictionary/1.%20Two%20Sum.py) | Hash Table | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Hash%20Table/1.%20Two%20Sum.py) | Hash Table | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Implementation/9.%20Palindrome%20Number.py) | Implementation | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Dictionary/13.%20Roman%20to%20Integer.py) | Hash Table and Queue | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Implementation/14.%20Longest%20Common%20Prefix.py) | Implementation | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
