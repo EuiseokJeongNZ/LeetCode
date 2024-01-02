@@ -19,6 +19,7 @@ class Solution:
 
         '''
         # simple answer
+        current = head
         while current and current.next:
             if current.val == current.next.val:
                 current.next = current.next.next
