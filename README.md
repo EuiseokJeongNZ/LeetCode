@@ -31,3 +31,5 @@ Data Structures and Algorithms for Python
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Hash%20Table/136.%20Single%20Number.py) | Hash Table | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Hash%20Table/169.%20Majority%20Element.py) | Hash Table | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Python3](https://github.com/EuiseokJeongNZ/LeetCode/blob/master/Hash%20Table/171.%20Excel%20Sheet%20Column%20Number.py) | Hash Table | [Easy](https://leetcode.com/problemset/?difficulty=EASY&page=1) | ![Done](https://img.shields.io/badge/Done-brightgreen) |
+
+ㅇㅇ
