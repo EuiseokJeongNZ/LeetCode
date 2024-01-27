@@ -8,6 +8,7 @@ class TreeNode:
 
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        # Recursion
         res = []
 
         def inorderTraversal(root):
@@ -19,3 +20,17 @@ class Solution:
 
         inorderTraversal(root)
         return res
+
+        # Stack
+        # res = []
+        # stack = []
+        # cur = root
+
+        # while cur or stack:
+        #     while cur:
+        #         stack.append(cur)
+        #         cur = cur.left
+        #     cur = stack.pop()
+        #     res.append(cur.val)
+        #     cur = cur.right
+        # return res
