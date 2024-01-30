@@ -10,14 +10,14 @@ class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
 
-        def inorderTraversal(root):
+        def preorderTraversal(root):
             if not root:
                 return
             res.append(root.val)
-            inorderTraversal(root.left)
-            inorderTraversal(root.right)
+            preorderTraversal(root.left)
+            preorderTraversal(root.right)
 
-        inorderTraversal(root)
+        preorderTraversal(root)
         return res
 
         # Solution with Stack
