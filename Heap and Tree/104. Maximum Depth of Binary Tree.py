@@ -21,3 +21,17 @@ class Solution:
 
         traversal(root, 1)
         return max(answer)
+
+        # Other Solution
+        # if not root:
+        #     return 0
+
+        # def traversal(root, depth):
+        #     if not root:
+        #         return 0
+        #     leftDepth = traversal(root.left, depth)
+        #     rightDepth = traversal(root.right, depth)
+        #     return 1 + max(leftDepth, rightDepth)
+        
+        # answer = traversal(root, 0)
+        # return answer
