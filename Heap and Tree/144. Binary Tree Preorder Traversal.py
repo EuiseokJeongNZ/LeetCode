@@ -20,7 +20,7 @@ class Solution:
         preorderTraversal(root)
         return res
 
-        # Solution with Stack
+        # Other Solution with Stack
         # res = []
         # stack = []
         # cur = root
