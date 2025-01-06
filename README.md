@@ -1,3 +1,5 @@
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/EuiseokJeongNZ/)
+
 Data Structures and Algorithms for Python
 
 | # | Title | My Solution | Tag | Difficulty | Status |
