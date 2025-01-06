@@ -1,4 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Euiseok_Jeong)](https://leetcode.com/EuiseokJeongNZ/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/EuiseokJeong)](https://leetcode.com/EuiseokJeongNZ/)
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcode.com/u/EuiseokJeongNZ/)
