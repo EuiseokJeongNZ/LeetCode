@@ -1,4 +1,5 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Euiseok%20Jeong?theme=dark&font=Lusitana&ext=contest)](https://leetcode.com/u/EuiseokJeongNZ/)
+![Leetcode Stats](https://leetcode.com/u/EuiseokJeongNZ/lapor?ext=contest)
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcode.com/u/EuiseokJeongNZ/)
 
