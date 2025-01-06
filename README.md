@@ -1,6 +1,15 @@
-### *Data Structures and Algorithms for Python*
+<p align="center"><strong>Data Structures and Algorithms for Python</strong></p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/EuiseokJeongNZ?theme=dark&font=Lusitana&ext=contest)](https://leetcode.com/EuiseokJeongNZ/)
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/EuiseokJeongNZ/">
+    <img src="https://leetcard.jacoblin.cool/EuiseokJeongNZ?theme=dark&font=Lusitana&ext=contest" alt="LeetCode Stats">
+  </a>
+</p>
+
+<br>
 
 | # | Title | My Solution | Tag | Difficulty | Status |
 | --- | :---: | :---: | --- | :---: | --- |
