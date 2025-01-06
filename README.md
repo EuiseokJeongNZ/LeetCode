@@ -1,7 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/EuiseokJeong)](https://leetcode.com/EuiseokJeongNZ/)
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcode.com/u/EuiseokJeongNZ/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/EuiseokJeongNZ/)
 
 Data Structures and Algorithms for Python
 
