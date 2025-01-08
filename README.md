@@ -1,4 +1,4 @@
-<p align="center"><strong>Data Structures and Algorithms for Python</strong></p>
+<p align="center"><strong>*Data Structures and Algorithms for Python*</strong></p>
 
 
 <br>
