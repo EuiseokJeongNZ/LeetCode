@@ -1,35 +1,25 @@
-import sys
+from collections import defaultdict
 
-def merge_sort(lst):
-    if len(lst) > 1:
-        left_lst = lst[:len(lst) // 2]
-        right_lst = lst[len(lst) // 2:]
 
-        merge_sort(left_lst)
-        merge_sort(right_lst)
+class Solution:
+    def maxSum(self, nums: List[int]) -> int:
+        flag = False
 
-        i = j = k = 0
-        while i < len(left_lst) and j < len(right_lst):
-            if left_lst[i] < right_lst[j]:
-                lst[k] = left_lst[i]
-                i += 1
-            else:
-                lst[k] = right_lst[j]
-                j += 1
-            k += 1
+        dic = defaultdict(int)
+        ans = float('-inf')
 
-            while i < len(left_lst):
-                lst[k] = left_lst[i]
-                i += 1
-                k += 1
-            while j < len(right_lst):
-                lst[k] = right_lst[j]
-                j += 1
-                k += 1
+        for num in nums:
+            if num > 0:
+                flag = True
+            dic[num] += 1
 
-if __name__ =='__main__':
-    lst = list(map(int, sys.stdin.readline().split()))
+        if not flag:
+            for num in dic.keys():
+                ans = max(ans, num)
+        else:
+            ans = 0
+            for num in dic.keys():
+                if num > 0:
+                    ans += num
 
-    merge_sort(lst)
-
-    print(lst)
+        return ans
